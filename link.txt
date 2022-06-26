@@ -1,0 +1,8 @@
+https://java2blog.com/spring-boot-hibernate-example/?fbclid=IwAR1H1GGuWL60YgSVAIpMhejbebaWHfnCycNfwXcmfWMTJF4mAIYhhqaAwh0
+
+
+https://www.numpyninja.com/post/my-first-microservice?fbclid=IwAR0khPSYZqWNgeJ5eHZqh-4uxcSdS3iIIlsbNll7Q4ZJv1JFd0pMR1_7XVk#:~:text=spring.jpa.hibernate.ddl-auto%3Dupdate%20Save%20the%20application.properties%20file.%20Now%20let%20us,Right%20click%20--%3E%20Run%20As--%3E%20Spring%20Boot%20App
+
+
+
+https://dzone.com/articles/spring-boot-microservices-building-microservices-a#:~:text=In%20this%20Spring%20Boot%20microservices%20example%2C%20we%20will,a%20dependent%20microservice%20to%20get%20the%20job%20done.
