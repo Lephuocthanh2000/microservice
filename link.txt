@@ -8,6 +8,6 @@ https://www.manning.com/books/designing-apis-with-swagger-and-openapi
 https://dzone.com/articles/spring-boot-microservices-building-microservices-a#:~:text=In%20this%20Spring%20Boot%20microservices%20example%2C%20we%20will,a%20dependent%20microservice%20to%20get%20the%20job%20done.
 
 https://sofienebk.medium.com/building-microservices-with-spring-boot-753be739ca7d
-
+https://github.com/nakeshsingh/microservices
 https://medium.com/swlh/openapi-swagger-ui-codegen-with-spring-boot-1afb1c0a570e
 https://piotrminkowski.com/2018/04/26/quick-guide-to-microservices-with-spring-boot-2-0-eureka-and-spring-cloud/
