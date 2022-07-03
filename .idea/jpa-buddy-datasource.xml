@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="72e40eda-9daf-4044-a578-bc2d9017d1bb" name="banhang" url="jdbc:postgresql://localhost/banhang" driverClass="org.postgresql.Driver" />
+    </data-sources>
+  </component>
+</project>

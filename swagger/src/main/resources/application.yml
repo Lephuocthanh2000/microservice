@@ -1,0 +1,16 @@
+#spring.datasource.url = jdbc:postgresql://localhost:5432/thuongmaidientu
+#
+#spring.datasource.username = postgres
+#
+#spring.datasource.password = 123456
+#
+#spring.jpa.hibernate.ddl-auto = create-drop
+#
+#spring.jpa.properties.hibernate.dialect =  org.hibernate.dialect.SQLServer2008Dialect
+
+spring:
+  datasource:
+    driver-class-name: org.h2.Driver
+    url: jdbc:h2:mem:localhost;DB_CLOSE_ON_EXIT=FALSE
+#    username: admin
+#    password:

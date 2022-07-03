@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cartservice/cartservice.iml" filepath="$PROJECT_DIR$/cartservice/cartservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demomicroservice/demomicroservice.iml" filepath="$PROJECT_DIR$/demomicroservice/demomicroservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edukaserver/edukaserver.iml" filepath="$PROJECT_DIR$/edukaserver/edukaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/microservice.iml" filepath="$PROJECT_DIR$/.idea/microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swagger/swagger.iml" filepath="$PROJECT_DIR$/swagger/swagger.iml" />
+    </modules>
+  </component>
+</project>
