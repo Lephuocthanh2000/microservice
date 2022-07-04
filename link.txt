@@ -13,3 +13,5 @@ https://medium.com/swlh/openapi-swagger-ui-codegen-with-spring-boot-1afb1c0a570e
 https://piotrminkowski.com/2018/04/26/quick-guide-to-microservices-with-spring-boot-2-0-eureka-and-spring-cloud/
 
 https://developer.okta.com/blog/2022/06/17/simple-crud-react-and-spring-boot#create-an-api-app-with-spring-boot
+
+https://www.bing.com/videos/search?q=how+to+generate+swagger+documentation&qpvt=how+to+generate+swagger+documentation&view=detail&mid=EE0B8F0A73E6BAEDFADEEE0B8F0A73E6BAEDFADE&&FORM=VRDGAR&ru=%2Fvideos%2Fsearch%3Fq%3Dhow%2Bto%2Bgenerate%2Bswagger%2Bdocumentation%26qpvt%3Dhow%2Bto%2Bgenerate%2Bswagger%2Bdocumentation%26FORM%3DVDRE
